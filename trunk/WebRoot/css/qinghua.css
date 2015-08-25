@@ -1,0 +1,157 @@
+body {
+    background:black;
+	overflow: auto;
+}
+
+.pagetitleleft {
+	font-family: 华文彩云;
+	font-size : 22px;
+	color:black;
+	background:#c6b2e7
+}
+.pagetitleright {
+	font-family: 宋体;
+	font-size : 12px;
+	color:black;
+	background:#c6b2e7
+}
+
+A.tlink:link {font-family: 宋体;font-size : 12px;color:black; text-decoration: none }
+A.tlink:active {font-family: 宋体;font-size : 12px;color:black;  text-decoration: none }
+A.tlink:visited {font-family: 宋体;font-size : 12px;color:black;  text-decoration: none }
+A.tlink:hover {font-family: 宋体;font-size : 12px;color:white; background: darkgray;  text-decoration: none }
+A.tdlink:link {font-family: 宋体;font-size : 12px;color:black; text-decoration: none }
+A.tdlink:active {font-family: 宋体;font-size : 12px;color:black; text-decoration: none }
+A.tdlink:visited {font-family: 宋体;font-size : 12px;color:black; text-decoration: none }
+A.tdlink:hover {font-family: 宋体;font-size : 12px;background: #000063;  color:white; text-decoration: none }
+
+
+.contentwindow {
+    background:#f7f3ff;
+    border-top: dashed #a555a5 5px;
+    border-right: dashed #a555a5 1px;
+    border-bottom: dashed #a555a5 1px;
+    border-left: dashed #a555a5 1px;
+}
+
+.contentwindowtitle {
+    background:#a555a5;
+	font-family: 宋体;
+	font-size : 12px;
+	color:white;
+	vertical-align:bottom;
+}
+
+.content {
+	font-family: 宋体;
+	font-size : 12px;
+}
+
+A.clink:link {font-family: 宋体;font-size : 12px;color:blue; text-decoration: none }
+A.clink:active {font-family: 宋体;font-size : 12px;color:blue; text-decoration: none }
+A.clink:visited {font-family: 宋体;font-size : 12px;color:blue; text-decoration: none }
+A.clink:hover {font-family: 宋体;font-size : 12px;background: #000063;  color:white; text-decoration: none }
+
+.copyright {
+    background:black;
+    text-align:right;
+	font-family: 宋体;
+	font-size : 12px;
+	color:white;
+}
+.trow {
+	font: 12px "宋体";
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #666666;
+}
+.trow A:link {
+	font: 12px "宋体";
+	color: #CCCCCC;
+	text-decoration: none;
+}
+
+.trow A:visited {
+	font: 12px "宋体";
+	color: #CCCCCC;
+	text-decoration: none;
+}
+
+.trow A:hover {
+	font: 12px "宋体";
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.orow {
+	font-family: "宋体";
+	font-size: 12px;
+}
+.orow td {
+    border-bottom: dashed #7b92bd 1px;
+}
+.erow {
+	font-family: "宋体";
+	font-size: 12px;
+	background-color: #e6e6e6;
+}
+.erow td {
+    border-bottom: dashed #7b92bd 1px;
+}
+
+.bt{
+	border-top: 1px solid #000000;
+	border-right: 1px solid #003333;
+	border-bottom: 1px solid #6633CC;
+	border-left: 1px solid #003333;
+	text-align: center;
+	font-size: 12px;
+	height: 22px;
+}
+.tbt{
+	border-top: 1px solid #000000;
+	border-right: 1px solid #003333;
+	border-bottom: 1px solid #6633CC;
+	border-left: 1px solid #003333;
+	text-align: center;
+	font-size: 12px;
+	height: 15px;
+	width: 15px;
+	vertical-align: middle;
+}
+.emp {
+  color:red;
+}
+div.contentdiv {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	overflow: auto;
+}
+.bthl {
+	BORDER-RIGHT: black 1px solid;
+	BORDER-TOP: white 1px solid;
+	BORDER-LEFT: white 1px solid;
+	BORDER-BOTTOM: black 1px solid;
+	background-color: Menu;
+}
+.btnohl {
+}
+.btnodn {
+	BORDER-RIGHT: white 1px solid;
+	BORDER-TOP: black 1px solid;
+	BORDER-LEFT: black 1px solid;
+	BORDER-BOTTOM: white 1px solid;
+	background-color: Menu;
+}
+.bt1{
+	border-top: 1px solid #000000;
+	border-right: 1px solid #003333;
+	border-bottom: 1px solid #6633CC;
+	border-left: 1px solid #003333;
+	text-align: center;
+	font-size: 12px;
+	height: 22px;
+	width: 22px;
+}
+
